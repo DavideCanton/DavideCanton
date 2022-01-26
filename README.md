@@ -21,6 +21,7 @@ I am a Software Engineer.
 I love to learn new languages, new developing paradigms.
 
 🔭 I’m currently working for Kantar, mainly in Python.
+
 🌱 I’m currently learning Rust and F#.
 
 📫 How to reach me:
