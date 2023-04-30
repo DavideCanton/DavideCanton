@@ -25,5 +25,5 @@ I love to learn new languages, new developing paradigms.
 🌱 I’m currently learning Rust and F#.
 
 📫 How to reach me:
-- https://twitter.com/davide_pycanton
+
 - davide.canton5@gmail.com
