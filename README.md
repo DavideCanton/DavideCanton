@@ -20,7 +20,7 @@ Davide Canton here.
 I am a Software Engineer.
 I love to learn new languages, new developing paradigms.
 
-🔭 I’m currently working for Kantar-XTEL, mainly in Python.
+🔭 I’m currently working for XTEL, mainly in Python.
 
 🌱 I’m currently learning Rust and F#.
 
